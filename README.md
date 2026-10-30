@@ -2,7 +2,7 @@
 
 Upload your PDFs (lecture notes, question papers, papers) and ask questions about them. Answers come only from your documents and every claim cites the page it came from.
 
-![CI](https://github.com/OWNER/rag-study-assistant/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/Daksh326/rag-study-assistant/actions/workflows/ci.yml/badge.svg)
 
 > **Demo:** _GIF coming soon_ · **Live:** _link coming soon_
 
