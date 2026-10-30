@@ -1,0 +1,5 @@
+// Copy this file to eval/questions.jsonl and replace these with 30-50 questions from your own notes.
+// expected_doc is matched as a case-insensitive substring of the uploaded file name.
+{"question": "What are the advantages of automation in manufacturing?", "expected_doc": "BOE 302", "expected_page": 2}
+{"question": "Who coined the term automation and when?", "expected_doc": "BOE 302", "expected_page": 1}
+{"question": "Construct a binary search tree from the given keys", "expected_doc": "bcs301", "expected_page": 2}
